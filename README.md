@@ -2,8 +2,6 @@
 
 Live price comparison for Indian shoppers. Pulls prices from Amazon and 10+ retailers, stores history in PostgreSQL, and surfaces discount checks and buy advice.
 
-**Live:** [price-wise-xi.vercel.app](https://price-wise-xi.vercel.app)
-
 ## Stack
 
 | Layer | Tech |
